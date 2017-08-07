@@ -17,3 +17,20 @@ Also, it comes with full documentation and support which is available for commer
 * **RTL support** - Provides a full-fledged right-to-left mode which aligns content in the Grid component from right to left.
 * **Localization** - Provides inherent support to localize the UI.
 
+
+
+## Installing
+
+To install all dependent packages, use the below command
+
+```
+npm install
+```
+
+## Building
+
+To compile the source files, use the below command
+
+```
+npm run build
+```
