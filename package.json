@@ -1,7 +1,7 @@
 {
 	"name": "@syncfusion/ej2-react-grids",
 	"version": "1.0.11",
-	"description": "Syncfusion TypeScript Grid Components for React",
+	"description": "Essential JS 2 Grid Component for React",
 	"author": "Syncfusion Inc.",
 	"license": "SEE LICENSE IN license",
 	"keywords": [
