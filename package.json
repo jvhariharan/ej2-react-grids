@@ -1,43 +1,43 @@
 {
-	"name": "@syncfusion/ej2-react-grids",
-	"version": "15.4.22",
-	"description": "Essential JS 2 Grid Component for React",
-	"author": "Syncfusion Inc.",
-	"license": "SEE LICENSE IN license",
-	"keywords": [
-		"ej2",
-		"syncfusion",
-		"ej2-react-grids"
-	],
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/syncfusion/ej2-react-grids.git"
-	},
-	"module": "dist/es6/index.js",
-	"readme": "ReadMe.md",
-	"dependencies": {
-		"awesome-typescript-loader": "^3.1.3",
-		"source-map-loader": "^0.2.1",
-		"@syncfusion/ej2-base": "^15.4.21",
-		"@syncfusion/ej2-react-base": "^15.4.20",
-		"@syncfusion/ej2-grids": "^15.4.22"
-	},
-	"devDependencies": {
-		"@types/chai": "^3.4.28",
-		"@types/es6-promise": "0.0.28",
-		"@types/jasmine": "^2.2.29",
-		"@types/jasmine-ajax": "^3.1.27",
-		"@types/react": "^15.0.24",
-		"@types/react-dom": "^15.5.0",
-		"@types/requirejs": "^2.1.26",
-		"es6-promise": "^3.2.1",
-		"gulp": "^3.9.1",
-		"gulp-sass": "^3.1.0",
-		"gulp-typescript": "^3.1.6",
-		"requirejs": "^2.3.3",
-		"typescript": "2.6.2"
-	},
-	"scripts": {
-		"build": "gulp build"
-	}
+  "name": "@syncfusion/ej2-react-grids",
+  "version": "15.4.23",
+  "description": "Essential JS 2 Grid Component for React",
+  "author": "Syncfusion Inc.",
+  "license": "SEE LICENSE IN license",
+  "keywords": [
+    "ej2",
+    "syncfusion",
+    "ej2-react-grids"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/syncfusion/ej2-react-grids.git"
+  },
+  "module": "dist/es6/index.js",
+  "readme": "ReadMe.md",
+  "dependencies": {
+    "awesome-typescript-loader": "^3.1.3",
+    "source-map-loader": "^0.2.1",
+    "@syncfusion/ej2-base": "^15.4.23",
+    "@syncfusion/ej2-react-base": "^15.4.23",
+    "@syncfusion/ej2-grids": "^15.4.23"
+  },
+  "devDependencies": {
+    "@types/chai": "^3.4.28",
+    "@types/es6-promise": "0.0.28",
+    "@types/jasmine": "^2.2.29",
+    "@types/jasmine-ajax": "^3.1.27",
+    "@types/react": "^15.0.24",
+    "@types/react-dom": "^15.5.0",
+    "@types/requirejs": "^2.1.26",
+    "es6-promise": "^3.2.1",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0",
+    "gulp-typescript": "^3.1.6",
+    "requirejs": "^2.3.3",
+    "typescript": "2.6.2"
+  },
+  "scripts": {
+    "build": "gulp build"
+  }
 }
