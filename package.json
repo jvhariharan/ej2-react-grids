@@ -1,26 +1,16 @@
 {
 	"name": "@syncfusion/ej2-react-grids",
-	"version": "15.4.22",
-	"description": "Essential JS 2 Grid Component for React",
-	"author": "Syncfusion Inc.",
-	"license": "SEE LICENSE IN license",
-	"keywords": [
-		"ej2",
-		"syncfusion",
-		"ej2-react-grids"
-	],
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/syncfusion/ej2-react-grids.git"
+	"version": "16.1.24",
+	"author": {
+		"name": "Syncfusion Inc."
 	},
-	"module": "dist/es6/index.js",
-	"readme": "ReadMe.md",
+	"description": "Essential JS 2 Grid Component for React",
 	"dependencies": {
+		"@syncfusion/ej2-base": "16.1.24",
+		"@syncfusion/ej2-grids": "16.1.24",
+		"@syncfusion/ej2-react-base": "16.1.24",
 		"awesome-typescript-loader": "^3.1.3",
-		"source-map-loader": "^0.2.1",
-		"@syncfusion/ej2-base": "^15.4.21",
-		"@syncfusion/ej2-react-base": "^15.4.20",
-		"@syncfusion/ej2-grids": "^15.4.22"
+		"source-map-loader": "^0.2.1"
 	},
 	"devDependencies": {
 		"@types/chai": "^3.4.28",
@@ -36,6 +26,16 @@
 		"gulp-typescript": "^3.1.6",
 		"requirejs": "^2.3.3",
 		"typescript": "2.6.2"
+	},
+	"keywords": [
+		"ej2",
+		"syncfusion",
+		"ej2-react-grids"
+	],
+	"license": "SEE LICENSE IN license",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/syncfusion/ej2-react-grids.git"
 	},
 	"scripts": {
 		"build": "gulp build"

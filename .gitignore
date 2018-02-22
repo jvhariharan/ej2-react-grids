@@ -1,9 +1,10 @@
 .gitignore
-!/**/*.ts
-/*.ts
-**/*.d.ts
-!src/**/*-model.d.ts
-!src/**/*-builder.d.ts
-!src/**/*-interface.d.ts
-dist/global/*.js
-!dist/global/ej2-react-grids*
+    !/**/*.ts
+    /*.ts
+    **/*.d.ts
+    !src/**/*-model.d.ts
+    !src/**/*-builder.d.ts
+    !src/**/*-interface.d.ts
+    dist/global/*.js
+    !dist/global/ej2-react-grids*
+    
